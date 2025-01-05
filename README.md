@@ -2,6 +2,8 @@
 
 A fitness studio is interested in understanding the current demand for digital fitness classes. The plan is to conduct a market analysis in Python to gauge demand and identify potential areas for growth of digital products and services.
 
+[Analysis Notebook Here](notebook.ipynb)
+
 ### Conclusion
 2020 was the year where workouts were searched the most, with "home workout" being the peak term. The United states was the location with the greatest amount of searches. In finding new markets, the Philippines also saw an increase in "home workout" searches. Between the Philippines and Malaysia, the Philippines had greater interest in home workouts. 
 
